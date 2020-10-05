@@ -1,6 +1,7 @@
 div.container {
     width: 60%;
     margin: 0 auto;
+    background: whitesmoke;
 }
 
 body {
@@ -11,12 +12,17 @@ body {
 header {
     width: 60%;
     margin: 0 auto;
+    background: whitesmoke;
+}
+
+.info {
+    
 }
 
 h1 {
     text-align: center;
     font-size: 36px;
-    color:palevioletred;
+    color: #847d73;
 }
 
 .wedding {
@@ -29,9 +35,44 @@ h1 {
 p  {
     line-height: 1.5;
     letter-spacing: 2px;
+    margin-top: 50px;
+    padding: 5%;
+    font-size: 18px;
+    color:	#444c57;
 }
 
+
 h2 {
-    color:palevioletred;
+    color:#a6a9b3;
     font-size: 30px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.nav {
+    border-top-style: solid;
+    margin-top: 150px;
+    color: #46303d;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    ;
+}
+
+nav {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.section-1 {
+   /*  margin-top: 100px; */
+}
+
+#background {
+    background: #d0d6ce;
+}
+
+h3 {
+    color: #bec2cb;
 }
